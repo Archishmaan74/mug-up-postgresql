@@ -42,17 +42,23 @@ public class Notes {
     //Cassandra
     //
     //Redis
+
+    //✅ Key Features of PostgreSQL
+    //✅ Open Source & Free
+    //Completely free to use with strong community support and regular updates.
     //
-    //✅ 3. Why Use PostgreSQL?
-    //PostgreSQL is a powerful, open-source, relational database. It is known for:
+    //✅ ACID Compliance & Data Integrity
+    //Ensures reliable transactions with support for explicit locks, foreign keys, and constraints to maintain data accuracy.
     //
-    //✅ High security
+    //✅ Advanced SQL Support
+    //Handles complex queries with features like joins, subqueries, window functions, and CTEs.
     //
-    //✅ Support for advanced queries and large datasets
+    //✅ Rich Data Types
+    //Supports JSON, Arrays, UUIDs, and custom types for flexible data modeling.
     //
-    //✅ Reliability and ACID compliance
+    //✅ Extensibility
+    //Allows custom functions, data types, and procedural languages like PL/pgSQL or Python.
     //
-    //✅ Built-in features like full-text search, JSON support, etc.
-    //
-    //✅ Great support with Spring Boot and ORMs like JPA/Hibernate
+    //✅ MVCC for High Concurrency
+    //Enables multiple transactions to run simultaneously without blocking, using Multi-Version Concurrency Control.
 }
